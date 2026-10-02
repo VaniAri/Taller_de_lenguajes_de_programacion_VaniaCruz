@@ -16,7 +16,7 @@ de datos, además de una consulta JOIN para relacionar las tablas.
 
 ## Archivos
 
-- `Informe_Sesion_6.pdf` → Contiene las evidencias y capturas de la sesión.
+- `Sesion 6_Base de Datos.pdf` → Contiene las evidencias y capturas de la sesión.
 - `Sesion6_GameStore.sql` → Contiene el código SQL utilizado.
 
 ## Tecnologías utilizadas
