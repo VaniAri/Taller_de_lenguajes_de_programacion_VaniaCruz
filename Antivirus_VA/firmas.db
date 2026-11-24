@@ -1,0 +1,5 @@
+# Base de firmas de virus (hashes SHA-256)
+# Formato: un hash por linea. Las lineas que empiezan con # son comentarios.
+
+# EICAR - archivo de prueba estandar de la industria antivirus (no es malware real)
+275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f
